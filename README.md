@@ -63,6 +63,8 @@ IDEs:
 
 apt-get install spyder
 
-apt-get install atom
+snap install atom --classic
+
+
 
 
