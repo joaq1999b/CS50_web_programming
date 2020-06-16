@@ -11,6 +11,11 @@ ROOT ACCESS:
 
 sudo su
 
+VIRTUAL BOX EXTENSIONS:
+
+apt-get install virtualbox-ext-pack
+
+
 PREPARE SYSTEM FOR INSTALLING STUFF:
 
 apt-get update
