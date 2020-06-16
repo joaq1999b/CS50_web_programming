@@ -53,6 +53,13 @@ gedit info.php &
 at the browser URL-> localhost/info.php
 
 
+GIT:
+
+apt-get install git
+
+
+
+
 PYTHON:
 
 Python is already installed, to test it type:
@@ -64,6 +71,8 @@ IDEs:
 apt-get install spyder
 
 snap install atom --classic
+
+
 
 
 
